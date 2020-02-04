@@ -1,1 +1,1 @@
-Simple bank admin panel designed with HTML, CSS, Javascript, Bootstrap
+Simple bank dashboard panel designed with HTML, CSS, Javascript, Bootstrap
